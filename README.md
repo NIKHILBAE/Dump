@@ -4,6 +4,7 @@ pkg update -y && pkg upgrade -y
 pkg install python && pkg install git
 pip install mechanize
 pip install requests
+pip install future
 pip install bs4
 git clone https://github.com/deepcoder-ofl/Dump
 cd Dump
