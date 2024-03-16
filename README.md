@@ -6,7 +6,7 @@ pip install mechanize
 pip install requests
 pip install future
 pip install bs4
-git clone https://github.com/deepcoder-ofl/Dump
+git clone https://github.com/NIKHILBAE/Dump
 cd Dump
 python3 run.py
 ```
